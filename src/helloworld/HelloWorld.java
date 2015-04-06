@@ -16,8 +16,8 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       String nama="Irfan Nurhasan.";
-       String nim="6306130024.";
+       String nama="Rezky Paranata.";
+       String nim="6306130037.";
        
         System.out.println(" Hello, saya " + nama + " Nim saya " + nim + " Saya sangat menyukai praktikum RPL Modul 8 ini. " );
     }
